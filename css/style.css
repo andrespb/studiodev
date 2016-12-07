@@ -47,12 +47,11 @@ header nav a.active {
 }
 
 #home h1 {
+	color: blue;
 	font-size: 68px;
 	font-weight: normal;
 	line-height: 1.2;
 	margin-bottom: 40px;
-	color: red;
-
 }
 
 #home .divider {
